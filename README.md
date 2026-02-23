@@ -17,3 +17,4 @@ After feature extraction, the dataset is divided into training and testing subse
 This project highlights key concepts in machine learning, including text preprocessing, feature engineering, supervised classification, model training, and evaluation. It demonstrates how probabilistic algorithms can be applied to real-world text classification problems and showcases the practical application of Python and Scikit-learn in building intelligent predictive systems.
 
 ##OUTPUT:
+<img width="608" height="118" alt="Image" src="https://github.com/user-attachments/assets/ae8f1997-d71a-4cb6-93d8-c0d80784c0da" />
